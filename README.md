@@ -10,10 +10,10 @@ Day 1:
 What i learn today:
 
 1. Memoization = hashmap, dictionary in python. Simply mapping what we have get before to the map as a key pair value so the recursion doesn't need to run if the key is already there. really simple. Good way of doing DP:
-   a. Draw the problem (as a tree) and try to understand the problem
-   b. Find the base case by trying really small case
-   c. Make the code work for small number
-   d. Memoization (Store return value to memo / map) and then return the memo
+   - Draw the problem (as a tree) and try to understand the problem
+   - Find the base case by trying really small case
+   - Make the code work for small number
+   - Memoization (Store return value to memo / map) and then return the memo
 2. Solve fibonacci problem = O(2^n) -> O(n) time complexity // O(n) space complexity
 3. Time complexity:
    - O(n) time is simply it runs n number of time // O(n) space is how much space it took from the problem, at one time
