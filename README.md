@@ -20,4 +20,4 @@ What i learn today:
    - But lets not forget that any multiplicative values can be removed as it doesnt matter that much EX: O(n/2) -> O(n)
 4. Solve Grid traveler problem = O(2^n+m) -> O(m\*n)
 
-5. I will try to do the next problem by myself. Wish me luck (canSum)
+5. I will try to do the next problem by myself. Wish me luck (canSum). UPDATE: IDK WHY, MY CODE IS THE SAME BUT PRODUCE DIFFERENT RESULT. PLS HELP ME... OKAY I KNOW WHY IT BREAK. IT IS BECAUSE THE THINGIES IS NOT FLUSHED PROPERLY. IM REALLY ANGRY IDK, idk why when i print new thingies, it decided to keep the map from the iteration before which break my code. idk why this happen but it is supposedly to make a totally new map whenever i call the function again. man idk
