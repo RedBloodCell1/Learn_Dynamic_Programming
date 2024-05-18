@@ -1,6 +1,7 @@
 Today i will learn dynamic programming from this youtube video
 
-<h1>Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges<h1/>
+## Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges
+
 https://youtu.be/oBt53YbR9Kk?si=LX6iArg8XaO_Quvz
 
 Day 1:
