@@ -13,6 +13,6 @@ def howSum(target, num=[], map={}):
         else:
             map[target] = None
 
-print(howSum(15,[7,5]))
+print(howSum(7,[3,1]))
 
     
