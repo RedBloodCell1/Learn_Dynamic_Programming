@@ -61,3 +61,4 @@ Day 4:
 So what is inside my brain today:
 
 1. Lets not waste time and just continue. Same as always, i will try to code by myself first, if im stuck then ill go for the solution, as simple as that
+2. Its done im gonna go, see u tomorrow probably
