@@ -55,3 +55,9 @@ So what do i find in this? The space complexity is literally just O(n) ps: targe
 For the time complexity, i don't really understand, but what i know is, it will cut off every single iteration that is not possible to reach, and my code doesn't really copy things, so i guess my code time complexity is O(n\*m) because for each........ I DONt uNDERSTAND YET. Sorry lets just continue then
 
 3. Lets continue to bestSum. I will eat first, cya later probably or next day.
+
+Day 4:
+
+So what is inside my brain today:
+
+1. Lets not waste time and just continue. Same as always, i will try to code by myself first, if im stuck then ill go for the solution, as simple as that
