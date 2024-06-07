@@ -1,2 +1,2 @@
 
-            map[target] = None
+    print("A
